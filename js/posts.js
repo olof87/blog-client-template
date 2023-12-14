@@ -12,7 +12,7 @@ async function fetchAllPosts() {
                     <p> ${post.content} <br> <span class="date">-- ${post.date} </span> <p>
 
                     
-                    <a href="#">Read more</a> <br>
+                    <a href="post.html">Read more</a> <br>
                     </li>
                     <br>
                     <br>
